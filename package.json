@@ -15,7 +15,6 @@
     "pdfjs-dist": "^5.4.530",
     "react": "19.2.3",
     "react-dom": "19.2.3",
-    "react-mathjax": "^1.0.1",
     "react-pdf": "^10.3.0"
   },
   "devDependencies": {
